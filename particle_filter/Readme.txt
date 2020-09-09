@@ -1,4 +1,4 @@
-Please using Octave platform to execute the code. Executing Run.m starts the program,
+Please use the Octave platform to execute the code. Executing Run.m starts the program,
 and gives the user the option to execute code for Part A and/or Part B. This folder also
 contains the write_up file labeled as writeup_vishwajeetkarmarkar and also two image
 files giving the dead-reckoning performance of the filter. Please note that the code is
