@@ -1,5 +1,5 @@
 # ML-AI
-## Author : Vishwajeet Karmarkar 
+### Author : Vishwajeet Karmarkar 
 Assignments for ML_AI at Northwestern Fall
 
 1) Contains a particle filter for state estimation 
